@@ -1,3 +1,5 @@
+const apiUrl = "http://localhost:3000/login";
+
 const form = document.getElementById("loginform");
 
 //arquivo JSON
